@@ -1,2 +1,2 @@
-def hello():
-    return "Hello, World!"
+texto = input()
+print(texto.replace(" ", "..."))
