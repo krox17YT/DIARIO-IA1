@@ -1,4 +1,4 @@
-from pila import push, pop, peek, esta_vacia
+from mini_ds.pila import push, pop, peek, esta_vacia
 
 def test_pila():
     p = []

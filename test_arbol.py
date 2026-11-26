@@ -1,4 +1,4 @@
-from arbol import insertar, buscar, en_orden
+from mini_ds.arbol import insertar, buscar, en_orden
 
 def test_arbol():
     raiz = None

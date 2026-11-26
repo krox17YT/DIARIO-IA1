@@ -1,4 +1,4 @@
-from ordenamientos import selection_sort, bubble_sort, merge_sort
+from mini_ds.ordenamientos import selection_sort, bubble_sort, merge_sort
 
 def test_ordenamientos():
     lista = [5, 3, 1, 4, 2]

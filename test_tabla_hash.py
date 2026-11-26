@@ -1,4 +1,4 @@
-from tabla_hash import crear_tabla, insertar, buscar
+from mini_ds.tabla_hash import crear_tabla, insertar, buscar
 
 def test_tabla_hash():
     t = crear_tabla(7)

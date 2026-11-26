@@ -1,4 +1,4 @@
-from grafo import bfs, dfs
+from mini_ds.grafo import bfs, dfs
 
 GRAFO = {
     "A": ["B", "C"],

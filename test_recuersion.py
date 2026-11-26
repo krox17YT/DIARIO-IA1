@@ -1,4 +1,4 @@
-from recursion import factorial, potencia, fibonacci, busqueda_binaria, invertir
+from mini_ds.recursion import factorial, potencia, fibonacci, busqueda_binaria, invertir
 
 def test_factorial():
     assert factorial(1) == 1

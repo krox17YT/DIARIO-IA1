@@ -1,7 +1,7 @@
 import time
 import random
 import matplotlib.pyplot as plt
-from ordenamientos import selection_sort, bubble_sort, merge_sort
+from mini_ds.ordenamientos import selection_sort, bubble_sort, merge_sort
 
 tamanos = [100, 500, 1000, 2000, 4000]
 algoritmos = {

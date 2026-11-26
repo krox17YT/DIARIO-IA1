@@ -1,4 +1,4 @@
-from cola import enqueue, dequeue, peek, esta_vacia
+from mini_ds.cola import enqueue, dequeue, peek, esta_vacia
 
 def test_cola():
     c = []

@@ -1,4 +1,4 @@
-from lista_enlazada import insertar_inicio, recorrer, buscar
+from mini_ds.lista_enlazada import insertar_inicio, recorrer, buscar
 
 def test_lista():
     cabeza = None

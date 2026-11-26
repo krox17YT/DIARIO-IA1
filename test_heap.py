@@ -1,4 +1,4 @@
-from heap import insertar, minimo, extraer_min
+from mini_ds.heap import insertar, minimo, extraer_min
 
 def test_heap():
     h = []
